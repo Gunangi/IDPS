@@ -61,3 +61,12 @@ id,url,category,timestamp,status,source
 60,http://allmusic.com/album/crazy-from-the-heat-r16990,b,2025-07-28 11:45:10,unsafe,blacklist
 61,http://earth-sure.com/industrial-tech/everlast-impact-resistant-dumpster-enclosure,b,2025-07-30 12:19:30,unsafe,manual_blacklist
 62,http://earth-sure.com/industrial-tech/everlast-impact-resistant-dumpster-enclosure,b,2025-07-30 12:19:30,unsafe,scan
+63,sunshinemills.com/,w,2025-07-30 14:21:38,safe,manual_whitelist
+64,sunshinemills.com/,w,2025-07-30 14:21:38,safe,scan
+65,ctv.ca/generic/WebSpecials/sponsorship_scandal/,b,2025-07-30 14:22:53,unsafe,manual_blacklist
+66,ctv.ca/generic/WebSpecials/sponsorship_scandal/,b,2025-07-30 14:22:53,unsafe,scan
+67,https://hacksnation.com/,w,2025-07-30 14:23:31,safe,manual_whitelist
+68,https://hacksnation.com/,w,2025-07-30 14:23:31,safe,scan
+69,http://www.myenrg.com/southwest/9-texas,b,2025-07-30 14:24:03,unsafe,manual_blacklist
+70,http://www.myenrg.com/southwest/9-texas,b,2025-07-30 14:24:04,unsafe,scan
+71,http://www.pashminaonline.com/pure-pashminas,b,2025-07-30 14:24:27,unsafe,blacklist

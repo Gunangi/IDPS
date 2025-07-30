@@ -13,3 +13,5 @@ id,url,category,timestamp,status,source
 12,https://www.stanford.edu,w,2025-07-28 02:50:39,safe,manual_whitelist
 13,en.wikipedia.org/wiki/North_Dakota,w,2025-07-28 11:34:51,safe,manual_whitelist
 14,movies.yahoo.com/shop?d=hv&cf=info&id=1800340831,w,2025-07-28 11:44:07,safe,manual_whitelist
+15,sunshinemills.com/,w,2025-07-30 14:21:38,safe,manual_whitelist
+16,https://hacksnation.com/,w,2025-07-30 14:23:31,safe,manual_whitelist
